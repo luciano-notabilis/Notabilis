@@ -1,0 +1,5 @@
+notes.csv
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
